@@ -4,7 +4,6 @@
 [![Database](https://img.shields.io/badge/Database-SQLite3-003B57.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Data Processing](https://img.shields.io/badge/Data%20Stack-Pandas%20%7C%20NumPy-orange.svg)](https://pandas.pydata.org/)
 [![Visualization](https://img.shields.io/badge/Visualization-Seaborn%20%7C%20Matplotlib-purple.svg)](https://seaborn.pydata.org/)
-[![Machine Learning](https://img.shields.io/badge/Modeling-Scikit--Learn-F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Executive Brief:** An end-to-end data analytics and churn prediction prototype designed to extract normalized customer records from a relational database, clean and harmonize heterogeneous business signals, surface critical churn drivers, and establish an actionable customer retention framework.
