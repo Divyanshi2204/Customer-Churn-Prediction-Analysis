@@ -1,4 +1,5 @@
-# 📊 Customer Churn Analysis & Retention Intelligence Pipeline
+# 📊 Customer Churn Prediction Analysis
+
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/Database-SQLite3-003B57.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
